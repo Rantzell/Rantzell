@@ -40,6 +40,7 @@ I build web and mobile applications end to end, from responsive React interfaces
 |---|---|---|
 | **[HairLink](https://github.com/Rantzell/HairLink-Web-App)** · [Live](https://hairlink-website.vercel.app) | Hair-donation platform for a charitable organization, connecting donors, recipients, and staff through a web app, REST API, and mobile app with an AR hairstyle try-on. *Capstone · Project Leader, UI & Backend.* | React, TypeScript, Express, Prisma, Supabase, React Native, MediaPipe |
 | **[PEA: Performance Suite](https://github.com/Rantzell/PEA)** · [Live](https://pea-five.vercel.app) | Multi-role performance-evaluation dashboard with role-based views, approval workflows, and light and dark mode. *UI Designer.* | React, Vite, Tailwind CSS |
+| **[We Can](https://github.com/Rantzell/WeCan)** | AI personal productivity dashboard combining tasks, calendar, habits, goals, and an AI coach, with per-user data secured by row-level security. *Personal project · In development.* | Next.js, TypeScript, Tailwind CSS, Supabase |
 
 ---
 
