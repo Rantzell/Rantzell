@@ -38,10 +38,8 @@ I build web and mobile applications end to end, from responsive React interfaces
 
 | Project | Description | Stack |
 |---|---|---|
-| **[HairLink](https://github.com/Rantzell/HairLink-Web-App)** · [Live](https://hairlink-website.vercel.app) | Hair-donation platform connecting donors, recipients, and staff, with a web app, REST API, and mobile app. *Team project.* | React, TypeScript, Express, Prisma, Supabase, React Native |
-| **[PEA: Performance Suite](https://github.com/Rantzell/PEA)** · [Live](https://pea-five.vercel.app) | Multi-role performance-evaluation dashboard with role-based views, approval workflows, dark mode, and PDF/Excel export. | React, Vite, Tailwind CSS |
-| **[AR Hairstyle](https://github.com/Rantzell/AR-Hairstyle)** | Real-time AR hair try-on module using on-device face and hair segmentation. | React Native, TypeScript, MediaPipe, Skia |
-| **[Coconut Coir Store](https://github.com/Rantzell/EcomFinalProject)** | E-commerce storefront with product catalog, cart, and checkout flow. | HTML, Tailwind CSS, JavaScript |
+| **[HairLink](https://github.com/Rantzell/HairLink-Web-App)** · [Live](https://hairlink-website.vercel.app) | Hair-donation platform for a charitable organization, connecting donors, recipients, and staff through a web app, REST API, and mobile app with an AR hairstyle try-on. *Capstone · Project Leader, UI & Backend.* | React, TypeScript, Express, Prisma, Supabase, React Native, MediaPipe |
+| **[PEA: Performance Suite](https://github.com/Rantzell/PEA)** · [Live](https://pea-five.vercel.app) | Multi-role performance-evaluation dashboard with role-based views, approval workflows, and light and dark mode. *UI Designer.* | React, Vite, Tailwind CSS |
 
 ---
 
